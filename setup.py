@@ -8,4 +8,4 @@ setup(name='sample_packaging',
       author_email='sample@packaging.com',
       license='MIT',
       packages=['sample_packaging'],
-      safe_zip=False)
+      zip_safe=False)
